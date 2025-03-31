@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jev13mz4t-dotnet-basic-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/jev13mz4t-dotnet-basic
